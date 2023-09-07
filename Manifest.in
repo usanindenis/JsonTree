@@ -1,0 +1,3 @@
+recursive-include JsonTree/deps *
+recursive-include JsonTree/wsdl *
+
